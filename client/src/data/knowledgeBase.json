@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Me zan yi idan ina jin ciwon ciki?",
+    "keywords": ["ciwon ciki", "zafi a ciki", "jin ciwo", "ciki na ciwo"],
+    "answer": "Ki sha ruwa mai yawa, ki huta sosai, ki guji cin abinci mai nauyi ko mai gishiri. Idan ciwon ya tsananta ko ya dauki lokaci, ki ga likita."
+  },
+  {
+    "question": "Yaya zan rage zazzabi?",
+    "keywords": ["zazzabi", "jin zafi", "zafin jiki", "fever"],
+    "answer": "Ki huta sosai, ki sha ruwa mai yawa, ki iya amfani da maganin rage zafi kamar paracetamol. Idan zazzabi bai sauka ba bayan kwana biyu, ki nemi likita."
+  },
+  {
+    "question": "Me ke hana jariri yin barci da dare?",
+    "keywords": ["jariri barci", "barcin dare", "jariri baya bacci"],
+    "answer": "Jariri na iya kasa yin barci saboda yunwa, ciwon ciki, ko rashin jin dumin uwa. Ki tabbatar an ciyar da shi, an canza masa diaper, kuma an kwantar da shi a wuri mai natsuwa."
+  },
+  {
+    "question": "Ya kamata in yi wa jariri rigakafi?",
+    "keywords": ["rigakafi", "allurar rigakafi", "jariri rigakafi"],
+    "answer": "Eh, yana da muhimmanci a yi wa jariri rigakafi bisa jadawalin likita domin kare shi daga cututtuka."
+  },
+  {
+    "question": "Me ke hana mace daukar ciki?",
+    "keywords": ["hana daukar ciki", "infertility", "matsalar daukar ciki"],
+    "answer": "Dalilai sun hada da matsalar hormones, matsalar mahaifa, ko cututtuka. Ya kamata a ga likita don samun magani."
+  },
+  {
+    "question": "Yaushe mace ke da yuwuwar daukar ciki?",
+    "keywords": ["ovulation", "lokacin daukar ciki", "zagayowar al'ada"],
+    "answer": "Mace na iya daukar ciki kwanaki 5 kafin ovulation da ranar ovulation, wanda ke tsakiyar zagayowar al'ada."
+  },
+  {
+    "question": "Me yasa jariri ke kuka da dare?",
+    "keywords": ["jariri kuka", "barcin dare", "jariri baya bacci"],
+    "answer": "Jarirai na kuka idan suna jin yunwa, rashin kwanciyar hankali, ko ciwon ciki. Ki ciyar da shi, ki canza masa diaper, kuma ki kwantar da shi a wuri mai dumi."
+  },
+  {
+    "question": "Ta yaya zan guji kamuwa da cutar shan inna?",
+    "keywords": ["cuta shan inna", "mastitis", "shanshiyar nono"],
+    "answer": "Ki tsabtace nono kafin da bayan shan nono, ki sha ruwa sosai, ki guji zama a yanayi mai zafi."
+  },
+  {
+    "question": "Menene muhimmancin yin rigakafi ga jariri?",
+    "keywords": ["rigakafi", "allurar rigakafi", "kariya daga cuta"],
+    "answer": "Rigakafi na kare jariri daga cututtuka masu hatsari kamar polio da shan inna."
+  },
+  {
+    "question": "Yaya zan kula da lafiyar jariri lokacin zazzabi?",
+    "keywords": ["jariri zazzabi", "kulawa zazzabi", "jariri lafiya"],
+    "answer": "Ki sa jaririn cikin tufafi masu laushi, ki ba shi ruwa sosai, ki rage zafi a daki, kuma ki tuntubi likita idan zazzabin ya yi tsanani."
+  },
+  {
+    "question": "Ta yaya zan magance tari a jariri?",
+    "keywords": ["tari", "jariri tari", "maganin tari"],
+    "answer": "Ki riƙa goga jaririn hanci da hankali, ki tabbatar yana samun iska mai kyau, kuma idan tari ya yi tsanani, ki nemi likita."
+  },
+  {
+    "question": "Me yasa jariri yake zubar da majina?",
+    "keywords": ["majina", "jariri majina", "jariri zubar da ruwa"],
+    "answer": "Zubar da majina yana iya zama alamar kamuwa da cuta ko rashin lafiyar hanci. Idan ya yi yawa, ki ga likita."
+  },
+  {
+    "question": "Yaya zan kula da lafiyar nono lokacin shan nono?",
+    "keywords": ["lafiyar nono", "shan nono", "kulawa nono"],
+    "answer": "Ki wanke hannunki kafin shan nono, ki guji tsoma nono da abubuwa marasa tsafta, kuma ki riƙa duba ko akwai kumburi ko zafi."
+  },
+  {
+    "question": "Me zan yi idan jariri baya ci abinci?",
+    "keywords": ["jariri baya ci abinci", "jariri ci", "cinyewar jariri"],
+    "answer": "Ki tabbatar jaririn ba ya jin ciwo, yana cikin yanayi mai kyau, kuma ki tuntubi likita idan har ya kasa ci."
+  },
+  {
+    "question": "Yaya zan hana jariri kamuwa da cututtuka?",
+    "keywords": ["rigakafi", "tsabtace jariri", "kariya daga cuta"],
+    "answer": "Ki tabbatar an yi masa rigakafi, ki kula da tsabtace muhalli da jikinsa, kuma ki guji kusantar mutane masu cuta."
+  },
+  {
+    "question": "Me yasa ake samun zazzabi lokacin daukar ciki?",
+    "keywords": ["zazzabi ciki", "daukar ciki zafi", "cutar ciki"],
+    "answer": "Zazzabi na iya zama alamar kamuwa da cuta ko wasu matsaloli. Idan yana da tsanani, ki ga likita."
+  },
+  {
+    "question": "Yaya zan gane alamar daukar ciki?",
+    "keywords": ["alamar daukar ciki", "gwajin ciki", "daukar ciki"],
+    "answer": "Alamomi sun hada da rashin al'ada, jin kasala, zazzabi mai laushi, da canjin nono. Gwajin ciki na tabbatar da hakan."
+  },
+  {
+    "question": "Me zan yi idan na ga jini bayan jima'i?",
+    "keywords": ["jini bayan jima'i", "bleeding", "cutar mahaifa"],
+    "answer": "Ki ga likita domin a bincika ko akwai matsala."
+  },
+  {
+    "question": "Yaya zan rage radadin ciwon kai?",
+    "keywords": ["ciwon kai", "magani ciwon kai", "headache"],
+    "answer": "Ki huta, ki sha ruwa mai yawa, ki guji damuwa, kuma ki iya amfani da maganin ciwon kai."
+  },
+  {
+    "question": "Me yasa nake jin jiri a jikin nawa?",
+    "keywords": ["jiri", "gajiya", "jin jiri"],
+    "answer": "Jiri na iya zama alamar gajiya, rashin abinci, ko rashin lafiya. Idan ya dau lokaci, ki ga likita."
+  },
+  {
+    "question": "Yaya zan kula da lafiyar fatar jariri?",
+    "keywords": ["fatar jariri", "kulawa fata", "rash"],
+    "answer": "Ki wanke jariri da ruwa mai tsafta, ki guji amfani da sabulun da zai iya damun fata, kuma ki riƙa canza diaper akai-akai."
+  },
+  {
+    "question": "Me zan yi idan jariri yana da tari mai tsanani?",
+    "keywords": ["tari mai tsanani", "jariri cuta", "matsalar tari"],
+    "answer": "Ki ga likita nan da nan domin a ba shi magani."
+  },
+  {
+    "question": "Ta yaya zan taimaka wa jariri lokacin zazzaɓi?",
+    "keywords": ["jariri zazzaɓi", "kulawa zazzaɓi", "maganin zazzaɓi"],
+    "answer": "Ki sa masa tufafi masu laushi, ki ba shi ruwa mai yawa, ki rage dumin daki, kuma ki tuntubi likita."
+  },
+  {
+    "question": "Me yasa mahaifiya ke jin zafi lokacin haihuwa?",
+    "keywords": ["zafi haihuwa", "labarin haihuwa", "matsalar haihuwa"],
+    "answer": "Zafi na haihuwa yana faruwa ne saboda ciwon mahaifa yana matsa jariri zuwa waje."
+  },
+  {
+    "question": "Yaya zan rage zafin ciwon mahaifa bayan haihuwa?",
+    "keywords": ["ciwon mahaifa", "haihuwa", "maganin ciwo"],
+    "answer": "Ki huta sosai, ki iya amfani da maganin rage zafi, kuma ki nemi shawarar likita."
+  },
+  {
+    "question": "Me zan yi idan jariri baya yin fitsari sosai?",
+    "keywords": ["jariri fitsari", "matsalar fitsari", "fitsarin jariri"],
+    "answer": "Idan jariri bai yi fitsari ba na tsawon lokaci, ki ga likita domin a bincika."
+  },
+  {
+    "question": "Yaya zan kiyaye lafiyar uwa mai ciki?",
+    "keywords": ["lafiyar uwa", "mai ciki", "kulawa ciki"],
+    "answer": "Ki ci abinci mai gina jiki, ki guji shan abubuwa masu cutarwa, ki huta sosai, kuma ki je asibiti akai-akai."
+  },
+  {
+    "question": "Me yasa ake samun jin zafi a baya lokacin daukar ciki?",
+    "keywords": ["zafi baya", "daukar ciki", "matsalar ciki"],
+    "answer": "Zafi a baya na iya faruwa saboda canjin jiki da girman ciki."
+  },
+  {
+    "question": "Yaya zan rage tashin zuciya lokacin daukar ciki?",
+    "keywords": ["tashin zuciya", "nausea", "daukar ciki"],
+    "answer": "Ki ci abinci a hankali, ki sha ruwa sosai, kuma ki guji abubuwan da ke tayar da tashin zuciya."
+  },
+  {
+    "question": "Me zan yi idan na ji ciwon kai mai tsanani lokacin daukar ciki?",
+    "keywords": ["ciwon kai", "daukar ciki", "matsalar ciki"],
+    "answer": "Ki tuntubi likita nan da nan domin a bincika."
+  },
+  {
+    "question": "Yaya zan gane alamun matsalar ciki a jariri?",
+    "keywords": ["matsalar ciki", "jariri ciwo", "alamun ciki"],
+    "answer": "Jariri na iya kuka sosai, rashin bacci, rashin ci, ko zazzabi."
+  },
+  {
+    "question": "Me zan yi idan jariri ya kasa yin fitsari?",
+    "keywords": ["jariri fitsari", "fitsari kasa", "matsalar fitsari"],
+    "answer": "Ki ga likita nan da nan."
+  },
+  {
+    "question": "Yaya zan kula da lafiyar idon jariri?",
+    "keywords": ["ido jariri", "kulawa ido", "matsalar ido"],
+    "answer": "Ki guji shafa ido da hannaye marasa tsafta, ki tsaftace idan ya zubar."
+  },
+  {
+    "question": "Me yasa ake samun jiri a jikin jariri?",
+    "keywords": ["jiri jariri", "cutar jariri", "matsalar jariri"],
+    "answer": "Jiri na iya zama alamar rashin lafiya ko rashin isasshen abinci."
+  },
+  {
+    "question": "Yaya zan kula da lafiyar hakoran jariri?",
+    "keywords": ["hakoran jariri", "kulawa hakora", "jariri hakora"],
+    "answer": "Ki fara tsaftace hakoransa tun yana fara fitowa da abin tsaftace hakora na musamman."
+  },
+  {
+    "question": "Me zan yi idan jariri yana da amai mai yawa?",
+    "keywords": ["amai jariri", "matsalar amai", "jariri amai"],
+    "answer": "Ki tabbatar ya sha ruwa sosai, ki ga likita idan amai ya yi tsanani."
+  },
+  {
+    "question": "Yaya zan hana jariri kamuwa da cutar hanci?",
+    "keywords": ["cuta hanci", "jariri hanci", "rigakafi hanci"],
+    "answer": "Ki tabbatar an yi masa rigakafi, ki tsaftace muhalli, ki guji damuwa."
+  },
+  {
+    "question": "Me zan yi idan jariri yana da zafin kunne?",
+    "keywords": ["zafi kunne", "jariri kunne", "matsalar kunne"],
+    "answer": "Ki ga likita don a duba."
+  },
+  {
+    "question": "Yaya zan kula da lafiyar mahaifa bayan haihuwa?",
+    "keywords": ["lafiyar mahaifa", "haihuwa", "kulawa mahaifa"],
+    "answer": "Ki huta sosai, ki tsaftace wurin, ki je asibiti idan akwai zafi ko jini mai yawa."
+  },
+  {
+    "question": "Yaya zan kiyaye lafiyar uwa mai ciki?",
+    "keywords": ["lafiyar uwa", "mai ciki", "kulawa ciki"],
+    "answer": "Ki ci abinci mai gina jiki, ki guji shan abubuwa masu cutarwa, ki huta sosai, kuma ki je asibiti akai-akai domin duba lafiyar ciki."
+  },
+  {
+    "question": "Menene amfanin shan folic acid a lokacin daukar ciki?",
+    "keywords": ["folic acid", "ciki", "vitamin"],
+    "answer": "Folic acid yana taimakawa hana lahani ga kwakwalwar jariri da kashin baya a lokacin da ake dauke da ciki."
+  },
+  {
+    "question": "Me yasa uwa ke jin amai a farkon ciki?",
+    "keywords": ["amai", "ciki", "morning sickness"],
+    "answer": "Hakan na faruwa ne sakamakon canjin hormones a jiki. Yana da al'ada a farkon watannin ciki."
+  },
+  {
+    "question": "Yaushe ya kamata mace mai ciki ta fara zuwa duba lafiya?",
+    "keywords": ["duba lafiya", "ciki", "akwatin haihuwa"],
+    "answer": "Da zaran an samu ciki, mace ya kamata ta fara zuwa asibiti don samun kulawa tun da wuri."
+  },
+  {
+    "question": "Me yasa jarirai ke fama da ciwon ciki bayan shan nono?",
+    "keywords": ["ciwon ciki", "jariri", "shan nono"],
+    "answer": "Zai iya zama saboda iska a ciki ko rashin daidaiton ciyarwa. Ki tabbatar jaririn yana fitar da iska bayan shan nono."
+  },
+  {
+    "question": "Yaya zan san jariri na samun isasshen abinci?",
+    "keywords": ["abinci jariri", "shan nono", "ciyar da jariri"],
+    "answer": "Idan jariri yana yin fitsari sau 6–8 a rana, yana girma yadda ya kamata, to yana samun isasshen abinci."
+  },
+  {
+    "question": "Shin ya dace a ba jariri ruwa?",
+    "keywords": ["jariri da ruwa", "shan ruwa", "ciyarwa"],
+    "answer": "A'a, jariri bai kamata ya sha ruwa kafin ya kai wata shida ba. Nonon uwa ya wadatar da bukatarsa."
+  },
+  {
+    "question": "Menene amfanin yin wanka da ruwan dumi bayan haihuwa?",
+    "keywords": ["wanka dumi", "haihuwa", "gyaran jiki"],
+    "answer": "Wanka da ruwan dumi yana saukaka ciwo, yana kara jini, kuma yana taimakawa wajen dawo da jiki bayan haihuwa."
+  },
+  {
+    "question": "Yaushe mace za ta fara al'ada bayan haihuwa?",
+    "keywords": ["al'ada", "haihuwa", "komawar jiki"],
+    "answer": "Al'ada kan dawo ne tsakanin makonni 6 zuwa watanni 6 bayan haihuwa, musamman idan mace ba ta shayarwa ba."
+  },
+  {
+    "question": "Me yasa jariri ke yawan amai bayan ciyarwa?",
+    "keywords": ["amai jariri", "ciyarwa", "shan nono"],
+    "answer": "Zai iya zama sakamakon cikar ciki ko rashin daidaiton shan nono. Idan yana da yawa, ki tuntubi likita."
+  },
+  {
+    "question": "Yaya zan rage kumburin kafa bayan haihuwa?",
+    "keywords": ["kumburi", "kafa", "haihuwa"],
+    "answer": "Ki huta da kafa a sama, ki sha ruwa mai yawa, ki motsa jiki kadan-kadan, ki guji cin gishiri mai yawa."
+  },
+  {
+    "question": "Menene postpartum depression?",
+    "keywords": ["postpartum depression", "baƙin ciki bayan haihuwa", "damuwa"],
+    "answer": "Postpartum depression na nufin baƙin ciki da damuwa da wasu mata ke ji bayan haihuwa. Idan yana da tsanani, ki nemi taimakon likita."
+  },
+  {
+    "question": "Yaya zan kare jariri daga zazzaɓin cizon sauro?",
+    "keywords": ["zazzaɓi", "sauro", "jariri"],
+    "answer": "Ki rufe jaririn da net, ki hana ruwa taruwa kusa da gida, ki sa masa kaya masu rufe jiki gabaɗaya."
+  },
+  {
+    "question": "Me yasa jariri baya motsi sosai a cikin ciki?",
+    "keywords": ["jariri cikin ciki", "motsi", "alamar rai"],
+    "answer": "Rashin motsi na iya zama al'ada ko alamar matsala. Ki tuntubi likita idan kika lura da canji mai yawa."
+  },
+  {
+    "question": "Menene jaundice a jariri?",
+    "keywords": ["jaundice", "rawaya", "jariri"],
+    "answer": "Jaundice na faruwa ne idan jinin jariri ya cika da bilirubin, yana sa idanu da fata su zama rawaya. Yana buƙatar duba likita."
+  },
+  {
+    "question": "Yaya ake gane cewa mace na cikin lokacin haihuwa?",
+    "keywords": ["lokacin haihuwa", "alamomi", "zuwan jariri"],
+    "answer": "Alamomi sun hada da ciwon mahaifa mai dawowa, zubar ruwa daga gaba, da budewar mahaifa. Idan hakan ta faru, a je asibiti."
+  },
+  {
+    "question": "Me yasa ake samun fitsari da yawa lokacin daukar ciki?",
+    "keywords": ["fitsari", "ciki", "sau da yawa"],
+    "answer": "Ciki yana matsa mafitsara, hakan ke hana ta tara ruwa sosai. Hakan al'ada ne musamman a farkon da ƙarshen ciki."
+  },
+  {
+    "question": "Shin mace mai ciki na iya motsa jiki?",
+    "keywords": ["motsa jiki", "ciki", "gimnas"],
+    "answer": "Eh, motsa jiki mai sauki kamar tafiya yana da amfani, amma ki tuntubi likita kafin farawa."
+  },
+  {
+    "question": "Menene cradle cap a jariri?",
+    "keywords": ["cradle cap", "fatar kai", "jariri"],
+    "answer": "Cradle cap na nufin fatar kai da ke yin kauri a jarirai. Yana wucewa da lokaci. Ki iya shafawa da mai kafin wanka."
+  },
+  {
+    "question": "Yaushe ya kamata a fara koyawa jariri ci abinci mai tauri?",
+    "keywords": ["abinci mai tauri", "jariri", "ci abinci"],
+    "answer": "A wata shida ne ya kamata a fara koya masa ci, tare da ci gaba da shayarwa."
+  },
+  {
+    "question": "Yaya zan tabbatar da lafiyar jikin jariri gabaɗaya?",
+    "keywords": ["lafiya jariri", "kulawa", "tsabtace jiki"],
+    "answer": "Ki riƙa tsabtace jikinsa, ki bashi nono sosai, ki kai shi asibiti duba lafiya akai-akai, kuma ki kula da canjin halinsa."
+  },
+  {
+    "question": "Me yasa jariri ke fama da rashin nauyi?",
+    "keywords": ["rashin nauyi", "jariri", "karancin nauyi"],
+    "answer": "Rashin nauyi a jariri na iya kasancewa sakamakon rashin isasshen abinci mai gina jiki ko cututtuka. Ki tuntubi likita don samun shawarwari da magani."
+  },
+  {
+    "question": "Yaya zan gane cewa jariri yana da cutar shan inna (polio)?",
+    "keywords": ["shan inna", "polio", "alamomin polio"],
+    "answer": "Alamomin sun haɗa da rauni ko shanyewar ƙafa ko hannu. Idan kin lura da waɗannan alamomi, ki gaggauta kai jariri asibiti."
+  },
+  {
+    "question": "Shin ya dace a yi wa jariri allurar rigakafi?",
+    "keywords": ["allurar rigakafi", "jariri", "rigakafi"],
+    "answer": "Eh, allurar rigakafi na taimakawa kare jariri daga cututtuka masu haɗari. Ki bi jadawalin rigakafi da likita ya bayar."
+  },
+  {
+    "question": "Me yasa jariri ke yawan yin amai bayan shan nono?",
+    "keywords": ["amai", "jariri", "shan nono"],
+    "answer": "Zai iya kasancewa sakamakon cikar ciki ko rashin daidaiton shan nono. Ki tabbatar jaririn yana fitar da iska bayan shan nono."
+  },
+  {
+    "question": "Yaya zan kula da lafiyar hakoran jariri?",
+    "keywords": ["lafiyar hakora", "jariri", "kulawa da hakora"],
+    "answer": "Ki fara goge hakoran jariri da brush mai laushi da ruwa tun da zarar hakora sun fara fitowa. Guji bashi abubuwan da ke da sukari mai yawa."
+  },
+  {
+    "question": "Me yasa jariri ke fama da ciwon ciki bayan ciyarwa?",
+    "keywords": ["ciwon ciki", "jariri", "ciyarwa"],
+    "answer": "Zai iya kasancewa sakamakon iska a ciki ko rashin daidaiton ciyarwa. Ki tabbatar jaririn yana fitar da iska bayan ciyarwa."
+  },
+  {
+    "question": "Yaya zan kare jariri daga kamuwa da cutar COVID-19?",
+    "keywords": ["COVID-19", "jariri", "kariya daga cuta"],
+    "answer": "Ki tabbatar da tsaftar hannu kafin taɓa jariri, ki guji taruwa da mutane da yawa, kuma ki kiyaye dokokin lafiya da aka bayar."
+  },
+  {
+    "question": "Shin ya dace a fara ciyar da jariri da abinci mai tauri a wata shida?",
+    "keywords": ["abinci mai tauri", "jariri", "wata shida"],
+    "answer": "Eh, daga wata shida, za a iya fara ciyar da jariri da abinci mai tauri tare da ci gaba da shayarwa."
+  },
+  {
+    "question": "Me yasa jariri ke fama da zazzaɓi bayan allurar rigakafi?",
+    "keywords": ["zazzaɓi", "jariri", "allurar rigakafi"],
+    "answer": "Zazzaɓi bayan allurar rigakafi al'ada ne kuma yana nuna cewa rigakafin na aiki. Idan zazzaɓin ya yi tsanani, ki tuntubi likita."
+  },
+  {
+    "question": "Yaya zan gane cewa jariri yana da cutar kyanda?",
+    "keywords": ["kyanda", "jariri", "alamomin kyanda"],
+    "answer": "Alamomin sun haɗa da zazzaɓi, tari, mura, da fatar jiki mai ja. Idan kin lura da waɗannan alamomi, ki kai jariri asibiti."
+  },
+  {
+    "question": "Shin ya dace a yi wa jariri allurar rigakafin kyanda?",
+    "keywords": ["rigakafin kyanda", "jariri", "allurar rigakafi"],
+    "answer": "Eh, allurar rigakafin kyanda na taimakawa kare jariri daga kamuwa da cutar kyanda. Ki bi jadawalin rigakafi da likita ya bayar."
+  },
+  {
+    "question": "Me yasa jariri ke fama da ciwon kunne?",
+    "keywords": ["ciwon kunne", "jariri", "ciwon kunne a jariri"],
+    "answer": "Ciwon kunne na iya kasancewa sakamakon kamuwa da cuta. Idan jariri yana yawan taɓa kunne ko yana kuka, ki kai shi asibiti."
+  },
+  {
+    "question": "Yaya zan kula da lafiyar idon jariri?",
+    "keywords": ["lafiyar ido", "jariri", "kulawa da ido"],
+    "answer": "Ki lura da canje-canje a idon jariri kamar ja ko ruwa. Idan kin lura da wani abu na damuwa, ki tuntubi likita."
+  },
+  {
+    "question": "Shin ya dace a yi wa jariri allurar rigakafin cutar shan inna?",
+    "keywords": ["rigakafin shan inna", "jariri", "allurar rigakafi"],
+    "answer": "Eh, allurar rigakafin shan inna na taimakawa kare jariri daga kamuwa da cutar. Ki bi jadawalin rigakafi da likita ya bayar."
+  },
+  {
+    "question": "Me yasa jariri ke fama da rashin barci da dare?",
+    "keywords": ["rashin barci", "jariri", "barcin dare"],
+    "answer": "Zai iya kasancewa sakamakon yunwa, ciwon ciki, ko rashin jin daɗi. Ki tabbatar jariri yana da kwanciyar hankali da dumi."
+  },
+  {
+    "question": "Yaya zan kula da lafiyar fatar jariri?",
+    "keywords": ["lafiyar fata", "jariri", "kulawa da fata"],
+    "answer": "Ki riƙa wanke jariri da ruwa mai dumi da sabulu mai laushi, ki shafa masa mai mai laushi don hana bushewar fata."
+  },
+  {
+    "question": "Shin ya dace a yi wa jariri allurar rigakafin cutar tarin fuka?",
+    "keywords": ["rigakafin tarin fuka", "jariri", "allurar rigakafi"],
+    "answer": "Eh, allurar rigakafin tarin fuka na taimakawa kare jariri daga kamuwa da cutar. Ki bi jadawalin rigakafi da likita ya bayar."
+  },
+  {
+    "question": "Me yasa jariri ke fama da ciwon makogwaro?",
+    "keywords": ["ciwon makogwaro", "jariri", "ciwon makogwaro a jariri"],
+    "answer": "Ciwon makogwaro na iya kasancewa sakamakon kamuwa da cuta. Idan jariri yana da zazzabi ko yana ƙin cin abinci, ki kai shi asibiti."
+  },
+  {
+    "question": "Yaya zan kare jariri daga kamuwa da cututtuka masu yaduwa?",
+    "keywords": ["kariya daga cututtuka", "jariri", "lafiyar jariri"],
+    "answer": "Ki tabbatar da tsaftar hannu, ki guji ciyar da jariri da abinci mara tsafta, kuma ki bi dukkan shawarwarin lafiya da likita ya bayar."
+  },
+  {
+    "question": "Shin ya dace a yi wa jariri allurar rigakafin cutar hawan jini?",
+    "keywords": ["rigakafin hawan jini", "jariri", "allurar rigakafi"],
+    "answer": "A halin yanzu, babu allurar rigakafin hawan jini ga jarirai. Ki kula da lafiyar jariri ta hanyar ciyarwa mai kyau da duba lafiya akai-akai."
+  },
+  {
+    "question": "Me yasa jariri ke fama da tari mai tsawo?",
+    "keywords": ["tari", "jariri", "tari mai tsawo"],
+    "answer": "Tari mai tsawo na iya nuna cututtuka kamar kyanda ko ciwon huhu. Ki gaggauta kai jariri asibiti idan tarin ya kai sama da kwanaki 5."
+  },
+  {
+    "question": "Yaushe ya kamata jariri ya fara zama da kansa?",
+    "keywords": ["zama", "jariri", "cigaban jariri"],
+    "answer": "Yawanci jarirai na fara iya zama da kansu daga wata 4 zuwa 7, amma hakan yana bambanta tsakanin yara."
+  },
+  {
+    "question": "Yaya zan gane jariri yana da zazzabin cizon sauro?",
+    "keywords": ["zazzabin cizon sauro", "jariri", "maleriya"],
+    "answer": "Alamomi sun hada da zazzaɓi, amai, yawan yin kuka, da rashin kuzari. Ki kai jariri asibiti don gwaji da magani."
+  },
+  {
+    "question": "Shin ya dace jariri ya yi amfani da keken yawo?",
+    "keywords": ["keken yawo", "jariri", "kiwon lafiya"],
+    "answer": "WHO ba ta ba da shawarar amfani da keken yawo ba, saboda haɗarin faɗuwa ko jikkata. Ki kula da jariri da hannu a lokacin koyon tafiya."
+  },
+  {
+    "question": "Yaya za a rage haɗarin kamuwa da cutar amai da gudawa a wajen jarirai?",
+    "keywords": ["amai", "gudawa", "kariya"],
+    "answer": "Ki tabbatar da tsaftar abinci, tsaftar hannu, da shayar da jariri da nono. Kuma ki tabbatar da ya karɓi allurar rigakafin rotavirus."
+  },
+  {
+    "question": "Me yasa jariri ke shan nono sosai fiye da yadda aka saba?",
+    "keywords": ["shan nono", "jariri", "nono da yawa"],
+    "answer": "Zai iya kasancewa yana girma (growth spurt) ko kuma yana buƙatar ƙarin abinci. Wannan al'ada ce da ke faruwa a wasu lokuta."
+  },
+  {
+    "question": "Shin ya dace a shayar da jariri ruwa kafin wata shida?",
+    "keywords": ["ruwa", "jariri", "shayarwa"],
+    "answer": "A'a. WHO na ba da shawarar kada a shayar da jariri wani abu banda nono har sai ya kai wata 6."
+  },
+  {
+    "question": "Yaya zan kare jariri daga ƙurajen fata?",
+    "keywords": ["ƙuraje", "jariri", "fata"],
+    "answer": "Ki kula da tsafta, ki maye gurbin diaper akai-akai, da amfani da mai mai tsafta. Idan kurajen sun yi yawa, ki tuntubi likita."
+  },
+  {
+    "question": "Me yasa jariri ke kuka sosai da dare?",
+    "keywords": ["kuka", "jariri", "dare"],
+    "answer": "Zai iya jin yunwa, ciwon ciki, ko rashin kwanciyar hankali. Ki tabbatar yana cikin natsuwa kuma an shayar da shi sosai."
+  },
+  {
+    "question": "Yaushe ya kamata a fara koyar da jariri amfani da toilet?",
+    "keywords": ["toilet", "jariri", "horon toilet"],
+    "answer": "Yawanci daga shekara 1.5 zuwa 2.5. Amma yana da kyau ki jira har sai jariri ya nuna cewa yana iya sarrafa buƙatarsa."
+  },
+  {
+    "question": "Shin ana iya shayar da jariri da madarar shanu kafin shekara ɗaya?",
+    "keywords": ["madarar shanu", "jariri", "ciyarwa"],
+    "answer": "A'a. WHO da UNICEF ba sa bada shawarar ba da madarar shanu ga jarirai ƙasa da shekara ɗaya saboda rashin abubuwan gina jiki da zai iya ɗauka."
+  },
+  {
+    "question": "Yaushe ya dace a yi wa jariri allurar rigakafin cutar meningitis?",
+    "keywords": ["meningitis", "rigakafi", "jariri"],
+    "answer": "Ana ba da rigakafin meningitis tun daga wata 6 ko kamar yadda likita ya tsara dangane da kalandar rigakafi."
+  },
+  {
+    "question": "Yaya za a gane jariri yana fama da matsalar numfashi?",
+    "keywords": ["numfashi", "jariri", "matsala"],
+    "answer": "Alamomi sun haɗa da saurin numfashi, kumburin hanci ko ƙirji, da wahalar shan numfashi. Gaggauta kai shi asibiti."
+  },
+  {
+    "question": "Me yasa jariri ke yawan shan nono a darare kawai?",
+    "keywords": ["shan nono", "darare", "jariri"],
+    "answer": "Zai iya sabawa haka ko kuma yana buƙatar ƙarin natsuwa a daren. Ki duba tsarin ciyarwa da rana ko akwai matsala."
+  },
+  {
+    "question": "Shin ya dace a ɗebe nono daga jariri bayan shekara ɗaya?",
+    "keywords": ["daina shayarwa", "jariri", "nono"],
+    "answer": "Eh, daga shekara ɗaya zuwa biyu, ana iya fara rage shayarwa har a dakatar. Amma ya danganta da lafiyar uwa da jariri."
+  },
+  {
+    "question": "Me yasa jariri ke fama da ƙara ko ciwon ciki bayan canza abinci?",
+    "keywords": ["canjin abinci", "ciwon ciki", "jariri"],
+    "answer": "Sabon abinci na iya zama mai nauyi ko yana ɗauke da wani sinadari da ba ya dace da jariri. Ki koma tsohon abinci, ko tuntubi likita."
+  },
+  {
+    "question": "Shin wane abinci ne mafi dacewa da jariri a wata shida?",
+    "keywords": ["abinci", "wata shida", "jariri"],
+    "answer": "Ka fara da abinci mai laushi kamar dankalin turawa, ayaba, dafaffiyar karas da sauran kayan lambu da aka markad'e."
+  },
+  {
+    "question": "Me yasa jariri ke daina cin abinci kwatsam?",
+    "keywords": ["karancin cin abinci", "jariri", "yunwa"],
+    "answer": "Zai iya kasancewa yana da zazzabi, ciwon ciki ko kawai yana girma. Ki ci gaba da ƙoƙari da kulawa, amma ki tuntubi likita idan ya daɗe."
+  },
+  {
+    "question": "Shin ana iya yi wa jariri maganin kashe zazzabi da kanki?",
+    "keywords": ["magani", "zazzabi", "jariri"],
+    "answer": "A'a. Kada ki ba jariri magani ba tare da shawarar likita ba. Magunguna na iya zama haɗari ga jarirai."
+  },
+  {
+    "question": "Yaushe ya kamata a fara horar da jariri game da tsaftar jiki?",
+    "keywords": ["tsaftar jiki", "jariri", "horarwa"],
+    "answer": "Za ki iya fara da koya masa wanke hannu, tsaftar baki da dai sauransu daga shekara 1.5 zuwa 2."
+  },
+  {
+    "question": "Me yasa jariri ke da yawan amai bayan cin abinci?",
+    "keywords": ["amai", "abinci", "jariri"],
+    "answer": "Zai iya kasancewa yana cin abinci fiye da kima, ko yana da rashin lafiyar ciki. Ki kula da nau'in abinci da yawan da ake bashi."
+  },
+  {
+    "question": "Shin yawan cizon yatsa alama ce ta ciwo a wajen jarirai?",
+    "keywords": ["cizon yatsa", "jariri", "ciwon hakora"],
+    "answer": "Iya, hakan na iya nuna cewa hakora na fitowa. Ki iya shafa masa kayan sanyaya don rage ciwo ko bada abin tauna."
+  },
+  {
+    "question": "Yaushe ya kamata a daina amfani da diaper ga jariri?",
+    "keywords": ["diaper", "jariri", "daina amfani"],
+    "answer": "Yawanci daga shekara 2 zuwa 3 idan jariri ya nuna sha’awar amfani da toilet. Ki horar da shi a hankali."
+  },
+  {
+    "question": "Me yasa jariri ke samun kurajen fuska da yawa?",
+    "keywords": ["kuraje", "jariri", "fuska"],
+    "answer": "Kurajen fuska a jarirai na iya zama daga sabuwar hormonal balance. Idan ba su ƙone ko kumbura ba, ba bu damuwa."
+  },
+  {
+    "question": "Shin ya dace a tsaftace kunnuwan jariri da coton bud?",
+    "keywords": ["kunne", "jariri", "tsafta"],
+    "answer": "A'a. Kada ki saka komai cikin kunnen jariri. Ki goge waje ne kawai da tawul mai laushi."
+  },
+  {
+    "question": "Yaya zan gane jariri yana fama da ciwon kunne?",
+    "keywords": ["ciwon kunne", "jariri", "alamomi"],
+    "answer": "Alamomi sun haɗa da yawan gogewa da kunnen, kuka da dare, amai ko rashin cin abinci. Ki kai shi asibiti idan kina zargin haka."
+  },
+  {
+    "question": "Me yasa jariri ke yawan yin yatsa a baki?",
+    "keywords": ["yatsa a baki", "jariri", "halayya"],
+    "answer": "Al’ada ce wadda ke bashi kwanciyar hankali ko alamar hakora na fitowa. Ki rage hakan a hankali idan ya yi girma."
+  },
+  {
+    "question": "Shin ya dace a bawa jariri sweets ko lemon zaki?",
+    "keywords": ["sweets", "lemo", "jariri"],
+    "answer": "A'a. Sweets da lemon zaki ba su da amfani ga jarirai kuma na iya haddasa ciwon hakora da rage sha'awar abinci mai kyau."
+  },
+  {
+    "question": "Yaya za a hana jariri haɗuwa da ƙwayoyin cuta a gidajen yara?",
+    "keywords": ["cututtuka", "ƙwayoyin cuta", "jariri"],
+    "answer": "Ki tabbatar da tsafta a wajen wasa, kula da wanke hannu, da guje wa haɗuwa da yara masu mura ko tari."
+  },
+  {
+    "question": "Me yasa jariri ke yin majina mai yawa?",
+    "keywords": ["majina", "jariri", "mura"],
+    "answer": "Majina mai yawa na iya kasancewa alamar mura, rashin lafiyar huhu ko wani abu a hanci. Ki kai shi asibiti idan ya daɗe."
+  },
+  {
+    "question": "Shin ana iya barin jariri ya kwana da nono a baki?",
+    "keywords": ["nono", "baki", "barci"],
+    "answer": "A'a. Hakan na iya jawo ciwon hakora da hadewar ruwa cikin kunne. Ki shayar da shi kafin barci sannan ki tsabtace bakin sa."
+  },
+  {
+    "question": "Yaushe ya kamata jariri ya fara kwana da kansa a daki?",
+    "keywords": ["kwana", "jariri", "daki"],
+    "answer": "WHO na bada shawarar jariri ya kwana a dakin iyaye har zuwa shekara 1 don rage haɗarin mutuwa a barci (SIDS)."
+  },
+  {
+    "question": "Shin yana da amfani jariri ya dinga zama a rana?",
+    "keywords": ["zama a rana", "jariri", "bitamin D"],
+    "answer": "Eh. Zama a rana na ɗan lokaci yana taimakawa wajen samar da bitamin D. Amma ki kauce wa rana mai zafi sosai."
+  },
+  {
+    "question": "Yaya zan taimaka wa jariri idan yana da ciwon hakori?",
+    "keywords": ["ciwon hakori", "jariri", "taimako"],
+    "answer": "Zaki iya shafa kayan sanyi (teething gel) ko bashi abin tauna mai laushi. Idan ciwon ya tsananta, ki kai shi asibiti."
+  },
+  {
+    "question": "Me yasa jariri ke ƙin yin barci da dare?",
+    "keywords": ["ƙin barci", "dare", "jariri"],
+    "answer": "Zai iya zama yana da kuzari, rashin natsuwa, ko damuwa. Ki kafa masa tsarin barci na dindindin da shakatawa kafin kwanciya."
+  },
+  {
+    "question": "Shin ana bukatar cire zuma daga abinci ga jarirai?",
+    "keywords": ["zuma", "abinci", "jariri"],
+    "answer": "Eh. Kada a bai wa jarirai ƙasa da shekara 1 zuma saboda haɗarin cutar botulism wadda ke da hatsari."
+  },
+  {
+    "question": "Me yasa jariri ke yin fitsari da yawa?",
+    "keywords": ["fitsari", "jariri", "yawa"],
+    "answer": "Idan ana shayar da shi sosai, yana alama ce ta lafiyar koda. Amma idan ya haɗu da sauran alamomi kamar amai, ki tuntubi likita."
+  },
+  {
+    "question": "Yaushe jariri zai fara iya kallon abu da kyau?",
+    "keywords": ["kallo", "idanu", "jariri"],
+    "answer": "A wata 2 zuwa 3 jariri zai fara kallon abu da kyau da bin shi da ido. Amma cikakken hangen nesa yana ƙaruwa da lokaci."
+  },
+  {
+    "question": "Shin ana iya yi wa jariri allurar rigakafi idan yana da zazzabi?",
+    "keywords": ["rigakafi", "zazzabi", "jariri"],
+    "answer": "Idan zazzabin yana da sauƙi, a kan cigaba da rigakafin. Amma idan yana da zafi ko ciwo, a dakata har ya warke."
+  },
+  {
+    "question": "Me yasa jariri ke jin haushi lokacin da aka ajiye shi?",
+    "keywords": ["ajiye", "haushi", "jariri"],
+    "answer": "Jarirai na bukatar kusanci da uwa don jin kwanciyar hankali. Hakanan na al’ada ne a farkon watanni."
+  }
+]

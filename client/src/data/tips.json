@@ -1,0 +1,362 @@
+[
+  {
+    "week": 1,
+    "title": "Fara juna biyu lafiya",
+    "tip": "A tabbata kina samun isasshen hutu da abinci mai kyau don lafiyar ki da jariri.",
+    "who_tips": [
+      "Ci abinci mai gina jiki kamar 'ya'yan itatuwa da kayan lambu.",
+      "Guji shan taba da shan giya."
+    ]
+  },
+  {
+    "week": 2,
+    "title": "Ci gaba da lura da lafiyar ki",
+    "tip": "Kula da shan ruwa sosai da gujewa damuwa.",
+    "who_tips": [
+      "Sha ruwa akalla kofi 8 a rana.",
+      "Yi motsa jiki mai sauki kamar tafiya."
+    ]
+  },
+  {
+    "week": 3,
+    "title": "Tabbatar da ganewar juna biyu",
+    "tip": "Ka je wurin likita don tabbatar da juna biyu da samun shawarwari na farko.",
+    "who_tips": [
+      "Yi gwajin ciki domin tabbatarwa.",
+      "Fara shan folic acid don taimakawa ci gaban jariri."
+    ]
+  },
+  {
+    "week": 4,
+    "title": "Kula da lafiyar mahaifa",
+    "tip": "Guji yin abubuwan da zasu iya cutar da jariri kamar shan magunguna ba tare da izini ba.",
+    "who_tips": [
+      "Guji shan magunguna marasa izini.",
+      "Ka je wurin likita idan kana jin zafi ko wani abu daban."
+    ]
+  },
+  {
+    "week": 5,
+    "title": "Fara motsa jiki mai sauki",
+    "tip": "Yi motsa jiki kamar tafiya mai natsuwa domin kara lafiyar jiki.",
+    "who_tips": [
+      "Guji yin motsa jiki mai nauyi sosai.",
+      "Ka tabbata kana shan ruwa sosai."
+    ]
+  },
+  {
+    "week": 6,
+    "title": "Rike lafiyar zuciya da jini",
+    "tip": "Ka ci abinci mai dauke da iron domin kauce wa rashin jini.",
+    "who_tips": [
+      "Ci abinci mai dauke da iron kamar naman kaji, wake, da koren ganye.",
+      "Yi gwajin jini don ganin matakin iron."
+    ]
+  },
+  {
+    "week": 7,
+    "title": "Guji damuwa",
+    "tip": "Ka guji damuwa da yanayi marasa kyau domin lafiyar jariri.",
+    "who_tips": [
+      "Yi nazarin hanyoyin shakatawa kamar yin addu'a ko sauraron waka.",
+      "Ka kwanta da wuri don samun isashen hutu."
+    ]
+  },
+  {
+    "week": 8,
+    "title": "Kula da lafiyar hanci da baki",
+    "tip": "Yi wanka da kyau da kuma kula da lafiyar baki domin kauce wa cututtuka.",
+    "who_tips": [
+      "Kwasfa haƙori sau biyu a rana.",
+      "Guji amfani da abubuwan da zasu cutar da baki."
+    ]
+  },
+  {
+    "week": 9,
+    "title": "Kara yawan cin abinci mai gina jiki",
+    "tip": "Ka ci abinci mai dauke da bitamin da ma’adanai da suka dace.",
+    "who_tips": [
+      "Ci abinci mai dauke da Vitamin C kamar lemu da ayaba.",
+      "Ka tabbata kina shan ruwa da yawa."
+    ]
+  },
+  {
+    "week": 10,
+    "title": "Kula da nauyin jiki",
+    "tip": "Kula da nauyin jikinki don kauce wa matsalolin lafiya.",
+    "who_tips": [
+      "Kiyaye nauyin jiki a hankali.",
+      "Yi motsa jiki mai sauki kamar tafiya."
+    ]
+  },
+  {
+    "week": 11,
+    "title": "Kiyaye tsaftar jiki",
+    "tip": "Ka kula da tsaftar jiki don rage yiwuwar kamuwa da cututtuka.",
+    "who_tips": [
+      "Wanke hannu kafin cin abinci.",
+      "Yi wanka akai-akai."
+    ]
+  },
+  {
+    "week": 12,
+    "title": "Kula da zafin jiki",
+    "tip": "Ka guji zama a yanayi mai zafi ko sanyi sosai.",
+    "who_tips": [
+      "Ka sha ruwa sosai domin kiyaye danshi a jiki.",
+      "Guji fita a rana sosai."
+    ]
+  },
+  {
+    "week": 13,
+    "title": "Ci gaba da shan folic acid",
+    "tip": "Folic acid yana taimakawa wajen rage hadarin matsalolin haihuwa.",
+    "who_tips": [
+      "Ci abinci mai dauke da folate kamar kabeji da wake.",
+      "Ka cigaba da shan folic acid har zuwa mako na 12."
+    ]
+  },
+  {
+    "week": 14,
+    "title": "Kula da lafiyar jiki gaba daya",
+    "tip": "Ka tabbatar kana samun isashen barci da hutu.",
+    "who_tips": [
+      "Yi barci akalla sa'o'i 7-8 a dare.",
+      "Guji damuwa da gajiya sosai."
+    ]
+  },
+  {
+    "week": 15,
+    "title": "Kula da hawan jini",
+    "tip": "Ka duba hawan jini akai-akai don kauce wa matsaloli.",
+    "who_tips": [
+      "Ka guji cin abinci mai yawa gishiri.",
+      "Yi motsa jiki mai sauki."
+    ]
+  },
+  {
+    "week": 16,
+    "title": "Kulawa da jin dadi",
+    "tip": "Ka yi abubuwan da zasu kara maka jin dadi da kwanciyar hankali.",
+    "who_tips": [
+      "Yi shakatawa ta hanyar karatu ko kallo fina-finai masu dadi.",
+      "Ka guji abubuwan da zasu sa ka cikin damuwa."
+    ]
+  },
+  {
+    "week": 17,
+    "title": "Lura da ci gaban jariri",
+    "tip": "Ka je wurin likita domin duba ci gaban jariri.",
+    "who_tips": [
+      "Yi amfani da ultrasound idan likita ya ba da shawara.",
+      "Ka tambayi likita duk lokacin da ka damu."
+    ]
+  },
+  {
+    "week": 18,
+    "title": "Kula da abinci mai kyau",
+    "tip": "Ka ci abinci mai wadataccen sinadaran gina jiki.",
+    "who_tips": [
+      "Ka ci kayan lambu masu launin kore da ja.",
+      "Ka sha madara ko madarar kayan lambu."
+    ]
+  },
+  {
+    "week": 19,
+    "title": "Guji shan taba",
+    "tip": "Shan taba na iya haifar da matsaloli ga jariri.",
+    "who_tips": [
+      "Guji shan taba koda a cikin gida.",
+      "Ka nemi taimako idan kana son daina shan taba."
+    ]
+  },
+  {
+    "week": 20,
+    "title": "Kulawa da fata",
+    "tip": "Ka kula da fata domin rage kumburi da bushewa.",
+    "who_tips": [
+      "Yi amfani da man shafawa mai laushi.",
+      "Guji wanka da ruwan zafi sosai."
+    ]
+  },
+  {
+    "week": 21,
+    "title": "Kulawa da lafiya ta zuciya",
+    "tip": "Ka rage damuwa domin lafiyar zuciya da jini.",
+    "who_tips": [
+      "Yi tunani mai kyau da addu'a.",
+      "Ka guji abubuwan da zasu sa ka damuwa."
+    ]
+  },
+  {
+    "week": 22,
+    "title": "Ci gaba da motsa jiki",
+    "tip": "Yi motsa jiki domin taimakawa jiki da lafiyar jariri.",
+    "who_tips": [
+      "Yi tafiya mai natsuwa akalla minti 30 a rana.",
+      "Ka guji motsa jiki mai nauyi sosai."
+    ]
+  },
+  {
+    "week": 23,
+    "title": "Lura da nauyin jiki",
+    "tip": "Kula da nauyin jikinki daidai domin kauce wa matsalolin kiba.",
+    "who_tips": [
+      "Ka ci abinci mai kyau ba tare da yawa ba.",
+      "Ka yi motsa jiki akai-akai."
+    ]
+  },
+  {
+    "week": 24,
+    "title": "Kula da lafiyar hakora",
+    "tip": "Yi brush na hakora da kyau don kauce wa cututtukan baki.",
+    "who_tips": [
+      "Yi brush sau biyu a rana.",
+      "Ka ziyarci likitan hakora lokaci-lokaci."
+    ]
+  },
+  {
+    "week": 25,
+    "title": "Ka guji shan kwayoyi marasa izini",
+    "tip": "Kar ka sha kowane magani ba tare da shawarar likita ba.",
+    "who_tips": [
+      "Ka nemi shawarar likita kafin shan magani.",
+      "Ka guji amfani da magungunan gargajiya marasa tabbaci."
+    ]
+  },
+  {
+    "week": 26,
+    "title": "Kulawa da numfashi",
+    "tip": "Ka guji zama a wuraren da ake da hayaki ko datti.",
+    "who_tips": [
+      "Ka guji shakar hayaki ko datti mai yawa.",
+      "Ka tabbatar iska tana shiga gida sosai."
+    ]
+  },
+  {
+    "week": 27,
+    "title": "Shan ruwa mai tsafta",
+    "tip": "Sha ruwa mai tsafta akai-akai don lafiyar ki da jariri.",
+    "who_tips": [
+      "Ka sha ruwa mai tsabta ko wanda aka tace.",
+      "Ka guji shan ruwa daga wuraren da ba a tabbatar ba."
+    ]
+  },
+  {
+    "week": 28,
+    "title": "Ci gaba da shan folic acid",
+    "tip": "Folic acid na taimakawa wajen kariya daga matsalolin haifuwa.",
+    "who_tips": [
+      "Ka ci gaba da shan folic acid har zuwa karshe.",
+      "Ka ci abinci mai dauke da folate."
+    ]
+  },
+  {
+    "week": 29,
+    "title": "Kulawa da tsarin narkar da abinci",
+    "tip": "Guji cin abinci mai sa kumburi ko tashin zuciya.",
+    "who_tips": [
+      "Ci abinci a hankali da sauki.",
+      "Guji kayan abinci masu yaji sosai."
+    ]
+  },
+  {
+    "week": 30,
+    "title": "Ka rika yin gwaje-gwaje",
+    "tip": "Yi gwaje-gwajen likita da aka tsara don duba lafiyar jariri da ki.",
+    "who_tips": [
+      "Ka bi jadawalin gwaje-gwaje na likita.",
+      "Ka tambayi likita idan akwai matsala."
+    ]
+  },
+  {
+    "week": 31,
+    "title": "Ka kula da garkuwar jiki",
+    "tip": "Ka ci abinci mai karfafa garkuwar jiki kamar citrus fruits.",
+    "who_tips": [
+      "Ka ci kayan itatuwa masu Vitamin C.",
+      "Ka huta sosai don karfafa jiki."
+    ]
+  },
+  {
+    "week": 32,
+    "title": "Lura da alamomin matsala",
+    "tip": "Ka lura da alamomin kamar zafi ko jini domin neman taimakon likita.",
+    "who_tips": [
+      "Ka gaggauta zuwa asibiti idan akwai jini ko zafi mai tsanani.",
+      "Ka sanar da likita duk wani abu daban."
+    ]
+  },
+  {
+    "week": 33,
+    "title": "Kula da lafiyar jijiyoyi",
+    "tip": "Yi hutun da ya dace don rage kumburin kafafu.",
+    "who_tips": [
+      "Ka rika dagawa kafafu sama lokaci-lokaci.",
+      "Ka guji tsayawa ko zama a wuri guda na dogon lokaci."
+    ]
+  },
+  {
+    "week": 34,
+    "title": "Ka guji shan caffeine mai yawa",
+    "tip": "Rage shan caffeine kamar kofi ko shayi mai karfi.",
+    "who_tips": [
+      "Ka iyakance shan caffeine zuwa kofi daya ko biyu a rana.",
+      "Ka guji shan caffeine kafin barci."
+    ]
+  },
+  {
+    "week": 35,
+    "title": "Kula da karfin garkuwar jiki",
+    "tip": "Ka ci abinci mai dauke da antioxidants kamar berries.",
+    "who_tips": [
+      "Ka ci kayan lambu masu launi daban-daban.",
+      "Ka sha ruwa da yawa."
+    ]
+  },
+{
+    "week": 36,
+    "title": "Shiri don haihuwa",
+    "tip": "Ka fara shirya kayayyakin da za ka bukata don haihuwa da kuma samun natsuwa.",
+    "who_tips": [
+      "Ka shirya kayan jariri da wurin haihuwa.",
+      "Yi shiri na tunani don rage damuwa kafin ranar haihuwa."
+    ]
+  },
+  {
+    "week": 37,
+    "title": "Kula da motsin jariri",
+    "tip": "Ka lura da motsin jariri don sanin cewa yana lafiya.",
+    "who_tips": [
+      "Ka lura da motsin jariri akai-akai.",
+      "Ka je wurin likita idan motsin jariri ya ragu sosai."
+    ]
+  },
+  {
+    "week": 38,
+    "title": "Kiyaye lafiya kafin haihuwa",
+    "tip": "Ka kula da lafiyarki sosai, ka ci abinci mai kyau, ka huta sosai.",
+    "who_tips": [
+      "Ka guji yin aiki mai nauyi.",
+      "Ka sha ruwa sosai."
+    ]
+  },
+  {
+    "week": 39,
+    "title": "Shiri don haihuwa mai sauki",
+    "tip": "Ka yi shiri na ruhaniya da na zahiri don haihuwa mai kyau.",
+    "who_tips": [
+      "Ka yi addu’a da tunani mai kyau.",
+      "Ka tuntuɓi likitan ki ko masu jinya domin shawarwari."
+    ]
+  },
+  {
+    "week": 40,
+    "title": "Kammala shiri don haihuwa",
+    "tip": "Ka tabbatar an shirya komai domin ranar haihuwa.",
+    "who_tips": [
+      "Ka tabbatar kayan jariri sun shirya.",
+      "Ka tuntuɓi likita idan akwai wani canji a jikin ki."
+    ]
+  }
+]
