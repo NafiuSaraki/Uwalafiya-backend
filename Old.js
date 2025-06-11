@@ -4,7 +4,6 @@ const cors = require("cors");
 const mongoose = require("mongoose");
 const nodemailer = require("nodemailer");
 const jwt = require("jsonwebtoken");
-const bcrypt = require("bcryptjs");
 
 const app = express();
 
@@ -22,11 +21,11 @@ mongoose.connect(process.env.MONGO_URI, {
 
 // User Schema
 const userSchema = new mongoose.Schema({
-  name: { type: String, required: true },
-  email: { type: String, unique: true, required: true },
-  password: { type: String, required: true },
-  pregnancyWeek: { type: String, default: "1" },
-}, { timestamps: true });
+  name: String,
+  email: { type: String, unique: true },
+  password: String,
+  pregnancyWeek: String,
+});
 
 const User = mongoose.model("User", userSchema);
 
@@ -36,7 +35,7 @@ const User = mongoose.model("User", userSchema);
 app.post("/register", async (req, res) => {
   const { name, email, password, pregnancyWeek } = req.body;
 
-  if (!name || !email || !password) {
+  if (!name || !email || !password || !pregnancyWeek) {
     return res.status(400).json({ success: false, message: "Dukkan filayen dole ne a cike." });
   }
 
@@ -46,17 +45,7 @@ app.post("/register", async (req, res) => {
       return res.status(409).json({ success: false, message: "Wannan email ɗin ya riga da rajista." });
     }
 
-    // Hash password
-    const salt = await bcrypt.genSalt(10);
-    const hashedPassword = await bcrypt.hash(password, salt);
-
-    const newUser = new User({
-      name,
-      email,
-      password: hashedPassword,
-      pregnancyWeek: pregnancyWeek || "1"
-    });
-
+    const newUser = new User({ name, email, password, pregnancyWeek });
     await newUser.save();
 
     res.status(201).json({ success: true, message: "An yi rajista cikin nasara!" });
@@ -73,13 +62,8 @@ app.post("/login", async (req, res) => {
   const { email, password } = req.body;
 
   try {
-    const user = await User.findOne({ email });
+    const user = await User.findOne({ email, password });
     if (!user) {
-      return res.status(401).json({ success: false, message: "Email ko kalmar sirri ba daidai ba ne." });
-    }
-
-    const isMatch = await bcrypt.compare(password, user.password);
-    if (!isMatch) {
       return res.status(401).json({ success: false, message: "Email ko kalmar sirri ba daidai ba ne." });
     }
 
