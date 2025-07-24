@@ -17,8 +17,8 @@ mongoose.connect(process.env.MONGO_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
-.then(() => console.log("✅ An haɗu da MongoDB Atlas"))
-.catch(err => console.error("❌ Kuskure wajen haɗuwa da MongoDB:", err));
+.then(() => console.log("✅ Connected to MongoDB Atlas"))
+.catch(err => console.error("❌ Error connecting to MongoDB:", err));
 
 // User Schema
 const userSchema = new mongoose.Schema({
@@ -37,13 +37,13 @@ app.post("/register", async (req, res) => {
   const { name, email, password, pregnancyWeek } = req.body;
 
   if (!name || !email || !password) {
-    return res.status(400).json({ success: false, message: "Dukkan filayen dole ne a cike." });
+    return res.status(400).json({ success: false, message: "All fields are required." });
   }
 
   try {
     const userExists = await User.findOne({ email });
     if (userExists) {
-      return res.status(409).json({ success: false, message: "Wannan email ɗin ya riga da rajista." });
+      return res.status(409).json({ success: false, message: "This email is already registered." });
     }
 
     // Hash password
@@ -59,10 +59,10 @@ app.post("/register", async (req, res) => {
 
     await newUser.save();
 
-    res.status(201).json({ success: true, message: "An yi rajista cikin nasara!" });
+    res.status(201).json({ success: true, message: "Registration successful!" });
   } catch (err) {
     console.error("❌ Error:", err);
-    res.status(500).json({ success: false, message: "Akwai matsala wajen yin rajista." });
+    res.status(500).json({ success: false, message: "There was a problem during registration." });
   }
 });
 
@@ -75,12 +75,12 @@ app.post("/login", async (req, res) => {
   try {
     const user = await User.findOne({ email });
     if (!user) {
-      return res.status(401).json({ success: false, message: "Email ko kalmar sirri ba daidai ba ne." });
+      return res.status(401).json({ success: false, message: "Invalid email or password." });
     }
 
     const isMatch = await bcrypt.compare(password, user.password);
     if (!isMatch) {
-      return res.status(401).json({ success: false, message: "Email ko kalmar sirri ba daidai ba ne." });
+      return res.status(401).json({ success: false, message: "Invalid email or password." });
     }
 
     const token = jwt.sign(
@@ -91,7 +91,7 @@ app.post("/login", async (req, res) => {
 
     res.status(200).json({
       success: true,
-      message: "An shiga cikin nasara!",
+      message: "Login successful!",
       token,
       user: {
         name: user.name,
@@ -101,7 +101,7 @@ app.post("/login", async (req, res) => {
     });
   } catch (err) {
     console.error("❌ Error:", err);
-    res.status(500).json({ success: false, message: "Matsala wajen login." });
+    res.status(500).json({ success: false, message: "Login failed due to a server error." });
   }
 });
 
@@ -112,7 +112,7 @@ app.post("/send-email", async (req, res) => {
   const { name, email, message } = req.body;
 
   if (!name || !email || !message) {
-    return res.status(400).json({ success: false, message: "Duk filayen dole ne a cike." });
+    return res.status(400).json({ success: false, message: "All fields are required." });
   }
 
   const transporter = nodemailer.createTransport({
@@ -126,19 +126,19 @@ app.post("/send-email", async (req, res) => {
   const mailOptions = {
     from: email,
     to: process.env.EMAIL_USER,
-    subject: `Sako daga ${name} ta UwaLafiya Contact Form`,
+    subject: `Message from ${name} via MumCare Contact Form`,
     text: message,
   };
 
   try {
     await transporter.sendMail(mailOptions);
-    res.status(200).json({ success: true, message: "Saƙon ka an tura shi cikin nasara!" });
+    res.status(200).json({ success: true, message: "Your message was sent successfully!" });
   } catch (error) {
     console.error("❌ Email error:", error);
-    res.status(500).json({ success: false, message: "Akwai matsala wajen aika saƙon." });
+    res.status(500).json({ success: false, message: "Failed to send the message." });
   }
 });
 
 // Start Server
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => console.log(`🚀 Server na gudana a port ${PORT}`));
+app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));
